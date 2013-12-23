@@ -2,22 +2,10 @@
     "name": "brackets-legibility",
     "title": "Legibility",
     "description": "Increase the legibility of Brackets' UI. Useful for High DPI screens",
-    "homepage": "http://mattstow.com",
+    "homepage": "https://github.com/stowball/brackets-legibility",
     "version": "0.0.1",
     "author": "Matt Stow matt@mattstow.com (http://mattstow.com)",
     "license": "MIT",
-	"keywords": {
-		"big",
-		"retina",
-		"high dpi",
-		"legibility"
-		"fonts",
-		"readability"
-	},
-	"files": {
-		"main.js",
-		"legibility.css"
-	},
     "engines": {
         "brackets": ">=0.35.0"
     }
