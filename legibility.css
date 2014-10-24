@@ -1,7 +1,27 @@
 /* Sidebar */
 
+body {
+	font-size: 2rem !important;
+}
+
+.dropdown a {
+	font-size: 2rem;
+}
+
+.working-set-splitview-btn {
+	height: 2rem;
+	width: 2rem;
+	background-size: 2rem 2rem;
+	background-repeat: no-repeat;
+}
+
+.working-set-view a {
+	font-size: 2rem;
+
+}
+
 #working-set-header, #project-files-header {
-	font-size: 15px;
+	font-size: 2rem;
 }
 
 #open-files-container {
@@ -9,19 +29,19 @@
 }
 
 #open-files-container a {
-	font-size: 16px;
-	height: 20px;
-	line-height: 18px;
+	font-size: 2rem;
+	height: 2.5rem;
+	line-height: 1.5rem;
 }
 
 .jstree a {
-	height: 20px;
-	line-height: 18px;
-	
+	height: 2.5rem;
+	line-height: 2rem;
+	padding-top: .5rem;
 }
 
 .jstree-brackets li a {
-	font-size: 16px
+	font-size: 2rem
 }
 
 .sidebar-selection, .sidebar-selection-triangle {
@@ -45,38 +65,38 @@
 /* Code Hints */
 
 .toolbar .nav .dropdown-menu li a, .context-menu .dropdown-menu li a, .codehint-menu .dropdown-menu li a {
-	font-size: 16px;
-	line-height: 23px;
+	font-size: 2rem;
+	line-height: 2.5rem;
 }
 
 .codehint-menu .dropdown-menu {
-	max-height: 200px;
+	max-height: 10rem;
 	overflow-x: hidden;
 }
 
 /* Dropdown Menus */
 
 .dropdown-menu > li > a {
-	font-size: 16px;
-	line-height: 21px;
+	font-size: 2rem;
+	line-height: 2.5rem;
 }
 
 /* Status Bar */
 
 #status-bar {
-	font-size: 15px;
-	height: 31px;
-	line-height: 30px;
+	font-size: 1.5rem;
+	height: 3rem;
+	line-height: 3rem;
 }
 
 /* Vertical Toolbar */
 
 .main-view .content {
-	right: 40px;
+	right: 4rem;
 }
 
 #main-toolbar {
-	width: 40px;
+	width: 4rem;
 }
 
 #main-toolbar .buttons > a, #main-toolbar .bottom-buttons > a {
@@ -87,25 +107,25 @@
 /* Modal Bar */
 
 textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input {
-	font-size: 16px;
+	font-size: 1.5rem;
 }
 
 .modal-bar .search-input-container #find-counter {
-	font-size: 14px;
+	font-size: 1.5rem;
 }
 
 /* Bottom Panel */
 
 .bottom-panel .toolbar .title {
-	font-size: 16px;
+	font-size: 2rem;
 }
 
 .btn.small {
-	font-size: 13px;
+	font-size: 1.5rem;
 }
 
 .table th, .table td {
-	line-height: 22px;
+	line-height: 2rem;
 }
 
 .bottom-panel-table td {
