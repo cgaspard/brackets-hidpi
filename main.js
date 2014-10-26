@@ -27,7 +27,7 @@ define(function (require, exports, module) {
     
     "use strict";
   
-    var link = require.toUrl("legibility.css");
+    var link = require.toUrl("hidpi.css");
     var style = document.createElement("link");
     style.type = "stylesheet/text-css";
     style.rel = "stylesheet";

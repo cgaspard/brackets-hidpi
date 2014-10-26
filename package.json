@@ -1,10 +1,10 @@
 {
-    "name": "brackets-legibility",
-    "title": "Legibility",
-    "description": "Increase the legibility of Brackets' UI. Useful for High DPI screens",
-    "homepage": "https://github.com/stowball/brackets-legibility",
+    "name": "brackets-hidpi",
+    "title": "Hi-DPI",
+    "description": "Support Hi DPI resolutions on linux",
+    "homepage": "https://github.com/cgaspard/brackets-hidpi",
     "version": "0.0.1",
-    "author": "Matt Stow matt@mattstow.com (http://mattstow.com)",
+    "author": "Corey Gaspard (cgaspard@gmail.com)",
     "license": "MIT",
     "engines": {
         "brackets": ">=0.35.0"

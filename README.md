@@ -1,6 +1,12 @@
-# brackets-legibility
+# brackets-highdpi
+
+Based on brackets-legibility extension
 
 Compatible with Sprint 35 and above
+
+Support for Hi-DPI resoultions.  No need to install on OSx since the native Hi-DPI works fine.
+
+Notes from brackets-legibility:
 
 Increase the legibility (font-sizes, line-heights, heights, etc) of the following UI elements:
 
