@@ -1,11 +1,11 @@
 /*body {
-	font-size: 2rem !important;
+	font-size: 1.5rem !important;
 }*/
 
 /* Sidebar */
 
 .dropdown a {
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-family: 'SourceSansPro', Helvetica, Arial, "Meiryo UI", "ＭＳ Ｐゴシック", "MS PGothic", sans-serif !important;
 font-weight: 450 !important;
 }
@@ -18,24 +18,24 @@ font-weight: 450 !important;
 }
 #working-set-header,
 #project-files-header {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 #open-files-container {
   max-height: none;
 }
 #open-files-container a {
-  font-size: 2rem;
-  height: 2.5rem;
-  line-height: 1.5rem;
+  font-size: 1.5rem;
+  height: 2rem;
+  line-height: 2rem;
 
 }
 .jstree a {
-  height: 2.5rem;
+  height: 2rem;
   line-height: 2rem;
   padding-top: .5rem;
 }
 .jstree-brackets li a {
-  font-size: 2rem
+  font-size: 1.5rem
 }
 .sidebar-selection,
 .sidebar-selection-triangle {
@@ -45,9 +45,9 @@ font-weight: 450 !important;
   height: 2rem !important;
 }
 .sidebar-selection-triangle.triangle-visible:before {
-  border-bottom-width: 1.7rem;
+  border-bottom-width: 1.5rem;
   border-left-width: 1.5rem;
-  border-top-width: 1.7rem;
+  border-top-width: 1.5rem;
 }
 #git-bash {
   display: block;
@@ -58,8 +58,8 @@ font-weight: 450 !important;
 .toolbar .nav .dropdown-menu li a,
 .context-menu .dropdown-menu li a,
 .codehint-menu .dropdown-menu li a {
-  font-size: 2rem;
-  line-height: 2.5rem;
+  font-size: 1.5rem;
+  line-height: 2rem;
 }
 .codehint-menu .dropdown-menu {
   max-height: 10rem;
@@ -68,17 +68,17 @@ font-weight: 450 !important;
 /* Dropdown Menus */
 
 .dropdown-menu > li > a {
-  font-size: 2rem;
-  line-height: 2.5rem;
+  font-size: 1.5rem;
+  line-height: 2rem;
 font-family: 'SourceSansPro', Helvetica, Arial, "Meiryo UI", "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 font-weight: 400;  
 }
 /* Status Bar */
 
 #status-bar {
-  font-size: 1.5rem;
-  height: 3rem;
-  line-height: 3rem;
+  font-size: 1rem;
+  height: 2.5rem;
+  line-height: 2.5rem;
 }
 /* Vertical Toolbar */
 
@@ -111,52 +111,52 @@ input[type="search"],
 input[type="tel"],
 input[type="color"],
 .uneditable-input {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 .modal-bar .search-input-container #find-counter {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 /* Bottom Panel */
 
 .bottom-panel .toolbar .title {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 .btn.small {
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 .table th,
 .table td {
   line-height: 2rem;
 }
 .bottom-panel-table td {
-  font-size: 1.7rem;
+  font-size: 1rem;
 }
 .bottom-panel-table .line-number {
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 /* Extension Modal */
 
 .modal-inner-wrapper {
-  font-size: 1.7rem;
+  font-size: 1.2rem;
 }
 .extension-manager-dialog .modal-header .nav-tabs > li > a {
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 .extension-manager-dialog .modal-header .search {
-  font-size: 2rem;
+  font-size: 1.5rem;
   padding-left: 3rem;
 }
 .extension-manager-dialog .modal-body .extension-list .ext-version,
 .extension-manager-dialog .modal-body .extension-list .ext-date,
 .extension-manager-dialog .modal-body .extension-list .ext-author {
-  font-size: 1.3rem;
+  font-size: 1rem;
 }
 .btn {
   cursor: pointer;
 }
 .btn-mini {
-  font-size: 2rem;
-  line-height: 2.1rem;
+  font-size: 1.5rem;
+  line-height: 2rem;
 }
 .btn.update {
   background: #91cc41;
@@ -168,7 +168,7 @@ input[type="color"],
 .working-set-header {
   height: 2rem !important;
   padding: 1.7rem 0rem 1.6rem 2rem !important;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 div.modal-wrapper {
   zoom: 100% !important;
@@ -181,13 +181,13 @@ div.working-set-option-btn {
   padding: 1.7rem 0rem 1.6rem 2rem !important;
 }
 .dropdown-arrow {
-	zoom:200%;
+	zoom:150%;
 }
 .jstree-icon {
-	zoom:200%;
+	zoom:150%;
 }
 .sidebar-selection, .filetree-selection {
-	height: 2.5rem !important;
+	height: 2rem !important;
 }
 #project-dropdown-toggle {
 	margin: .1rem .1rem .1rem .1rem;
