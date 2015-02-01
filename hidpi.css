@@ -5,7 +5,7 @@
 /* Sidebar */
 
 .dropdown a {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-family: 'SourceSansPro', Helvetica, Arial, "Meiryo UI", "ＭＳ Ｐゴシック", "MS PGothic", sans-serif !important;
 font-weight: 450 !important;
 }
@@ -13,7 +13,7 @@ font-weight: 450 !important;
   zoom: 200%;
 }
 .working-set-view a {
-  font-size: 2rem;
+  font-size: 1.5rem;
   height: 2rem;
 }
 #working-set-header,
